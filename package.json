@@ -1,0 +1,18 @@
+{
+  "name": "dfs",
+  "main": "index.js",
+  "version": "0.0.1",
+  "description": "working",
+  "author": {
+    "name": "木酱",
+    "email": "lichen.dlc@alibaba-inc.com"
+  },
+  "homepage": "http://github.com/ericdum/dfs",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ericdum/dfs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ericdum/dfs/issues"
+  }
+}
